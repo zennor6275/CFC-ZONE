@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.zonilmu"
        name="[B][COLOR white]*[/COLOR][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B]"
-       version="1.0.9"
+       version="1.1.0"
        provider-name="Zenor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -24,17 +24,24 @@
   </extension>
        <extension point="xbmc.addon.metadata">
     <summary>[B][COLOR greenyellow]Dengar | Amal | Sebarkan[/COLOR][/B]</summary>
+    <summary>[B][COLOR greenyellow]Dengar | Amal | Sebarkan[/COLOR][/B]</summary>
     <description>Bismillahirrahmanirrahim
-بَلِّغُوا عَنِّى وَلَوْ آيَةً
-“Sampaikanlah dariku walau hanya satu ayat” (HR. Bukhari)
 
-Alhamdulillah... dengan izin Allah.. Zon Ilmu tertubuh secara tidak sengaja di bawah addon utama KODIM sejak 2015.
-Inilah Dakwah Alaf Baru.
-Dakwah mengikut peredaraan dan keperluan semasa. :)
+[B][COLOR yellow]“Sampaikanlah dariku walau hanya satu ayat” (HR. Bukhari)[/COLOR][/B]
 
-Pastikan anda share addon ini!!! :)
-dan untuk informasi lebih, boleh Like di page kami di https://www.facebook.com/kodimtheaddon</description>
-	<disclaimer>Addon ini adalah PERCUMA. Kompilasi video daripada sumber YouTube dan FB yang disusun secara teratur bagi memudahkan tontonan.</disclaimer>
+Alhamdulillah... dengan izin Allah.. ZonIlmu tertubuh secara tidak sengaja di bawah addon utama [B][COLOR yellow]KODIM[/COLOR][/B] sejak 2015. Inilah Dakwah Alaf Baru. Dakwah mengikut peredaraan dan keperluan semasa. :)
+
+Diharapkan dengan ada saluran Islamik seperti ini dapat lagi memberi ilmu, manfaat dan kesedaran kepada penonton dan seterusnya menghidupkan dakwah Baginda. TAKBIR !!!
+
+[B][COLOR yellow]"Barangsiapa yang menempuh suatu jalan untuk mencari ilmu (syar'i), Allah akan memudahkan baginya dengan ilmu tersebut, jalan menuju surga." - [HR. Muslim][/COLOR][/B]
+
+ZonIlmu hanyalah sebagai medium perantara dan jalan alternatif dalam menuntut ilmu, bukan jalan yang utama. Kami menggalakkan para penuntut ilmu untuk menghadiri majlis ilmu dimana sahaja anda berada, kerana disitu lebih afdal dan terdapat barakah. Wallahu ta'ala a'lam.
+
+Pastikan anda share addon ini!!! :) dan untuk informasi lebih, boleh Like di page kami di https://www.facebook.com/kodimtheaddon
+
+@Semua Hak cipta adalah milik Allah</description>
+	<disclaimer>Addon ZonIlmu adalah PERCUMA dan kami tidak mengenakan sebarang bayaran untuk perkhidmatan kami. 
+	Sekiranya addon ini bermanfaat, kami mengalu-alukan para sahabat semua bersama-sama kami menjayakanya</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
