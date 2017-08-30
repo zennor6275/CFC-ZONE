@@ -23,8 +23,17 @@
     <provides>video</provides>
   </extension>
        <extension point="xbmc.addon.metadata">
-       <summary>[B][COLOR greenyellow]Kompilasi Medium Dakwah[/COLOR][/B]</summary>
-       <description>Kompilasi Siri Kuliah Ilmu Tempatan Dan Alunan Lagu Nasyid Mendidik Jiwa</description>
+    <summary>[B][COLOR greenyellow]Dengar | Amal | Sebarkan[/COLOR][/B]</summary>
+    <description>Bismillahirrahmanirrahim
+بَلِّغُوا عَنِّى وَلَوْ آيَةً
+“Sampaikanlah dariku walau hanya satu ayat” (HR. Bukhari)
+
+Alhamdulillah... dengan izin Allah.. Zon Ilmu tertubuh secara tidak sengaja di bawah addon utama KODIM sejak 2015.
+Inilah Dakwah Alaf Baru.
+Dakwah mengikut peredaraan dan keperluan semasa. :)
+
+Pastikan anda share addon ini!!! :)
+dan untuk informasi lebih, boleh Like di page kami di https://www.facebook.com/kodimtheaddon</description>
 	<disclaimer>Addon ini adalah PERCUMA. Kompilasi video daripada sumber YouTube dan FB yang disusun secara teratur bagi memudahkan tontonan.</disclaimer>
     <platform>all</platform>
   </extension>
