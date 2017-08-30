@@ -323,10 +323,10 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>ZONILMU  - based on livestreamspro 2.8.1 by Shani</summary>
-    <description>
-    </description>
+    <extension point="xbmc.addon.metadata">
+    <summary>[B][COLOR greenyellow]Kompilasi Medium Dakwah[/COLOR][/B]</summary>
+    <description>Kompilasi Siri Kuliah Ilmu Tempatan Dan Alunan Lagu Nasyid Mendidik Jiwa</description>
+    <disclaimer>Addon ini adalah PERCUMA. Kompilasi video daripada sumber YouTube dan FB yang disusun secara teratur bagi memudahkan tontonan.</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
