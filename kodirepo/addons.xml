@@ -333,7 +333,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 
 <addon id="plugin.video.zonilmu"
        name="[B][COLOR white]*[/COLOR][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B]"
-       version="1.0.6"
+       version="1.0.7"
        provider-name="Zenor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -454,21 +454,3 @@ For updates check the readme.
     </extension>
 </addon>
 </addons>
-
-<addon id="script.module.beautifulsoup"
-       name="BeautifulSoup"
-       version="3.2.1"
-       provider-name="Leonard Richardson (leonardr@segfault.org)">
-  <requires>
-    <import addon="xbmc.python" 
-    		version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.module"
-             library="lib" />
-  <extension point="xbmc.addon.metadata">
-    <summary>HTML/XML parser for quick-turnaround applications like screen-scraping</summary>
-    <description>Beautiful Soup parses arbitrarily invalid SGML and provides a variety of methods and Pythonic idioms for iterating and searching the parse tree.</description>
-    <license>BSD</license>
-    <platform>all</platform>
-  </extension>
-</addon>
