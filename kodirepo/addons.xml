@@ -229,10 +229,19 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">ZONILMU repository</summary>
-		<description lang="en">This repository contains ZONILMU and required dependencies.</description>
-		<disclaimer lang="en">The Author does not host or share any content, nor is he affiliated with any of the content providers.</disclaimer>
-		<platform>all</platform>
+    <summary>[B][COLOR greenyellow]Dengar | Amal | Sebarkan[/COLOR][/B]</summary>
+    <description>Bismillahirrahmanirrahim
+بَلِّغُوا عَنِّى وَلَوْ آيَةً
+“Sampaikanlah dariku walau hanya satu ayat” (HR. Bukhari)
+
+Alhamdulillah... dengan izin Allah.. Zon Ilmu tertubuh secara tidak sengaja di bawah addon utama KODIM sejak 2015.
+Inilah Dakwah Alaf Baru.
+Dakwah mengikut peredaraan dan keperluan semasa. :)
+
+Pastikan anda share addon ini!!! :)
+dan untuk informasi lebih, boleh Like di page kami di https://www.facebook.com/kodimtheaddon</description>
+	<disclaimer>Addon ini adalah PERCUMA. Kompilasi video daripada sumber YouTube dan FB yang disusun secara teratur bagi memudahkan tontonan.</disclaimer>
+    <platform>all</platform>
 		<news>Latest Update</news>
 		<assets>
 			<icon>icon.png</icon>
@@ -333,7 +342,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 
 <addon id="plugin.video.zonilmu"
        name="[B][COLOR white]*[/COLOR][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B]"
-       version="1.0.8"
+       version="1.0.9"
        provider-name="Zenor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -355,9 +364,18 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     <provides>video</provides>
   </extension>
     <extension point="xbmc.addon.metadata">
-    <summary>[B][COLOR greenyellow]Kompilasi Medium Dakwah[/COLOR][/B]</summary>
-    <description>Kompilasi Siri Kuliah Ilmu Tempatan Dan Alunan Lagu Nasyid Mendidik Jiwa</description>
-    <disclaimer>Addon ini adalah PERCUMA. Kompilasi video daripada sumber YouTube dan FB yang disusun secara teratur bagi memudahkan tontonan.</disclaimer>
+    <summary>[B][COLOR greenyellow]Dengar | Amal | Sebarkan[/COLOR][/B]</summary>
+    <description>Bismillahirrahmanirrahim
+بَلِّغُوا عَنِّى وَلَوْ آيَةً
+“Sampaikanlah dariku walau hanya satu ayat” (HR. Bukhari)
+
+Alhamdulillah... dengan izin Allah.. Zon Ilmu tertubuh secara tidak sengaja di bawah addon utama KODIM sejak 2015.
+Inilah Dakwah Alaf Baru.
+Dakwah mengikut peredaraan dan keperluan semasa. :)
+
+Pastikan anda share addon ini!!! :)
+dan untuk informasi lebih, boleh Like di page kami di https://www.facebook.com/kodimtheaddon</description>
+	<disclaimer>Addon ini adalah PERCUMA. Kompilasi video daripada sumber YouTube dan FB yang disusun secara teratur bagi memudahkan tontonan.</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
