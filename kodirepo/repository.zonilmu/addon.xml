@@ -11,10 +11,10 @@
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">ZONILMU repository</summary>
-		<description lang="en">This repository contains ZONILMU and required dependencies.</description>
-		<disclaimer lang="en">The Author does not host or share any content, nor is he affiliated with any of the content providers.</disclaimer>
-		<platform>all</platform>
+		<summary>[B][COLOR greenyellow]Kompilasi Medium Dakwah[/COLOR][/B]</summary>
+    		<description>Kompilasi Siri Kuliah Ilmu Tempatan Dan Alunan Lagu Nasyid Mendidik Jiwa</description>
+		<disclaimer>Addon ini adalah PERCUMA. Kompilasi video daripada sumber YouTube dan FB yang disusun secara teratur bagi memudahkan tontonan.</disclaimer>
+    		<platform>all</platform>
 		<news>Moved to Github from Ares Repo to be independent</news>
 		<assets>
 			<icon>icon.png</icon>
