@@ -217,7 +217,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     </extension>
 </addon>
 
-<addon id="repository.zonilmu" version="2017.07.5" name="ZONILMU repository" provider-name="ZONILMU">
+<addon id="repository.zonilmu" version="2017.08.30" name="ZONILMU repository" provider-name="ZONILMU">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 	</requires>
