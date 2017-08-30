@@ -293,8 +293,6 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 		<provides>executable</provides>
   </extension>
 
-
-
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <summary lang="en">Proxy for f4m</summary>
@@ -304,7 +302,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 
 <addon id="plugin.video.zonilmu"
        name="[B][COLOR white]*[/COLOR][COLOR turquoise1]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR turquoise1]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B]"
-       version="1.0.4"
+       version="1.0.5"
        provider-name="Zenor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
