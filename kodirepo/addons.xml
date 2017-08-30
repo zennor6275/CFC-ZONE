@@ -422,3 +422,30 @@ For updates check the readme.
     </extension>
 </addon>
 </addons>
+
+<addon id="plugin.addon.id" name="Your Add-on" version="1.2.3" provider-name="You">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb">Your add-on's summary</summary>
+    <description lang="en_gb">Your add-on's description</description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+    <news></news>
+    <assets>
+        <icon></icon>
+        <fanart></fanart>
+        <screenshot></screenshot>
+    </assets>
+  </extension>
+</addon>
