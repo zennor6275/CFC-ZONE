@@ -303,9 +303,9 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 </addon>
 
 <addon id="plugin.video.zonilmu"
-       name="ZONILMU"
-       version="1.0.3"
-       provider-name="ZONILMU - Ares-Project">
+       name="[B][COLOR white]*[/COLOR][COLOR turquoise1]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR turquoise1]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B]"
+       version="1.0.4"
+       provider-name="Zenor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
