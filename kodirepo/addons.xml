@@ -217,7 +217,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     </extension>
 </addon>
 
-<addon id="repository.zonilmu" version="2017.08.31" name="ZONILMU repository" provider-name="Zenor">
+<addon id="repository.zonilmu" version="2017.09.1" name="ZONILMU repository" provider-name="Zenor">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 	</requires>
@@ -254,37 +254,6 @@ Pastikan anda share addon ini!!! :) dan untuk informasi lebih, boleh Like di pag
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
-</addon>
-	
-<addon id="plugin.video.kodim"
-       name="KODIM"
-       version="2.8.7"
-       provider-name="KODIM - Ares-Project">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" optional="true" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-     <import addon="script.module.livestreamer" optional="true"/>
-     <import addon="script.module.pyamf" optional="true"/>
-     <import addon="script.module.addon.common" optional="true"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>KODIM  - based on livestreamspro 2.8.1 by Shani</summary>
-    <description>
-    </description>
-    <platform>all</platform>
-  </extension>
 </addon>
 
 <addon id="script.module.beautifulsoup"
