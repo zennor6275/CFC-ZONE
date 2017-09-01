@@ -159,7 +159,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 <addon id="script.module.urlresolver" name="URLResolver" version="4.0.02" provider-name="Eldorado, tknorris, jsergio">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
-		<import addon="plugin.video.youtube" optional="true" />
+		<import addon="plugin.video.youtube" version="5.4.14Bump" /> 
 		<import addon="script.module.python.twitch" optional="true" />
 		<import addon="script.module.cryptopy" version="1.2.6" optional="true" />
 	</requires>
@@ -328,7 +328,7 @@ Pastikan anda share addon ini!!! :) dan untuk informasi lebih, boleh Like di pag
     <import addon="script.module.httplib2" />
     <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
     <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="plugin.video.youtube" version="5.4.14Bump"/>
     <import addon="script.module.urlresolver" version="4.0.02"/>
     <import addon="script.module.simplejson" />
      <import addon="script.module.livestreamer" optional="true"/>
