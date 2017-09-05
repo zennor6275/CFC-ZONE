@@ -44,6 +44,8 @@ Pastikan anda share addon ini!!! :) dan untuk informasi lebih, boleh Like di pag
     <platform>all</platform>
 	       <news>Menu ZONILMU telah dikemaskini</news>
 		<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
 		<screenshot>resources/screenshots/01.jpg</screenshot>
 		<screenshot>resources/screenshots/02.jpg</screenshot>
 		<screenshot>resources/screenshots/03.jpg</screenshot>
