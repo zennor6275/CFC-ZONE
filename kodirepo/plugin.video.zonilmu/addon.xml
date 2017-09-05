@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.zonilmu"
        name="[B][COLOR white]*[/COLOR][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B]"
-       version="1.1.3"
+       version="1.1.4"
        provider-name="Zenor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -36,13 +36,13 @@ Diharapkan dengan ada saluran Islamik seperti ini dapat lagi memberi ilmu, manfa
 
 ZonIlmu hanyalah sebagai medium perantara dan jalan alternatif dalam menuntut ilmu, bukan jalan yang utama. Kami menggalakkan para penuntut ilmu untuk menghadiri majlis ilmu dimana sahaja anda berada, kerana disitu lebih afdal dan terdapat barakah. Wallahu ta'ala a'lam.
 
-Pastikan anda share addon ini!!! :) dan untuk informasi lebih, boleh Like di page kami di https://www.facebook.com/kodimtheaddon
+Pastikan anda share addon ini!!! Untuk informasi lebih lanjut boleh Like FB Page [B][COLOR yellow]https://www.facebook.com/kodimtheaddon[/COLOR][/B]
 
 @Semua Hak cipta adalah milik Allah</description>
-	<disclaimer>Addon ZonIlmu adalah PERCUMA dan kami tidak mengenakan sebarang bayaran untuk perkhidmatan kami. 
-	Sekiranya addon ini bermanfaat, kami mengalu-alukan para sahabat semua bersama-sama kami menjayakanya</disclaimer>
-    <platform>all</platform>
-	       <news>Menu ZONILMU telah dikemaskini</news>
+	<disclaimer>Addon ZonIlmu adalah PERCUMA dan boleh dimuat turun di [B][COLOR yellow]http://bit.ly/ZonIlmuRepo[/COLOR][/B] 
+	Sekiranya addon ini bermanfaat, kami mengalu-alukan para sahabat semua bersama-sama menjayakanya</disclaimer>
+    	<platform>all</platform>
+	<news>5.9.2017 - Menu ZONILMU telah dikemaskini. Harap maklum</news>
 		<assets>
 		<icon>icon.png</icon>
 		<fanart>fanart.jpg</fanart>
