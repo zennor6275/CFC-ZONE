@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.zonilmu"
        name="[B][COLOR white]*[/COLOR][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B]"
-       version="1.1.2"
+       version="1.1.3"
        provider-name="Zenor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -28,7 +28,7 @@
 
 [B][COLOR yellow]“Sampaikanlah dariku walau hanya satu ayat” (HR. Bukhari)[/COLOR][/B]
 
-Alhamdulillah... dengan izin Allah.. ZonIlmu tertubuh secara tidak sengaja di bawah addon utama [B][COLOR yellow]KODIM[/COLOR][/B] sejak 2015. Inilah Dakwah Alaf Baru. Dakwah mengikut peredaraan dan keperluan semasa. :)
+Alhamdulillah... dengan izin Allah.. ZonIlmu tertubuh secara tidak sengaja di bawah addon utama [B][COLOR yellow]KODIM[/COLOR][/B] sejak 2016. Inilah Dakwah Alaf Baru. Dakwah mengikut peredaraan dan keperluan semasa. :)
 
 Diharapkan dengan ada saluran Islamik seperti ini dapat lagi memberi ilmu, manfaat dan kesedaran kepada penonton dan seterusnya menghidupkan dakwah Baginda. TAKBIR !!!
 
@@ -42,5 +42,13 @@ Pastikan anda share addon ini!!! :) dan untuk informasi lebih, boleh Like di pag
 	<disclaimer>Addon ZonIlmu adalah PERCUMA dan kami tidak mengenakan sebarang bayaran untuk perkhidmatan kami. 
 	Sekiranya addon ini bermanfaat, kami mengalu-alukan para sahabat semua bersama-sama kami menjayakanya</disclaimer>
     <platform>all</platform>
+	       <news>Menu ZONILMU telah dikemaskini</news>
+		<assets>
+		<screenshot>resources/screenshots/01.jpg</screenshot>
+		<screenshot>resources/screenshots/02.jpg</screenshot>
+		<screenshot>resources/screenshots/03.jpg</screenshot>
+		<screenshot>resources/screenshots/04.jpg</screenshot>
+		<screenshot>resources/screenshots/05.jpg</screenshot>
+		</assets>
   </extension>
 </addon>
