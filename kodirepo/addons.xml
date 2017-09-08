@@ -358,15 +358,13 @@ Pastikan anda share addon ini!!! Untuk informasi lebih lanjut boleh Like FB Page
 	<disclaimer>Addon ZonIlmu adalah PERCUMA dan boleh dimuat turun di [B][COLOR yellow]http://bit.ly/ZonIlmuRepo[/COLOR][/B] 
 	Sekiranya addon ini bermanfaat, kami mengalu-alukan para sahabat semua bersama-sama menjayakanya</disclaimer>
     <platform>all</platform>
-	<news>5.9.2017 - Menu ZONILMU telah dikemaskini. Harap maklum</news>
+	<news>8.9.2017 - Menu ZONILMU telah dikemaskini. Harap maklum</news>
 	<assets>
 	<icon>icon.png</icon>
 	<fanart>fanart.jpg</fanart>
 	<screenshot>resources/screenshots/01.jpg</screenshot>
 	<screenshot>resources/screenshots/02.jpg</screenshot>
 	<screenshot>resources/screenshots/03.jpg</screenshot>
-	<screenshot>resources/screenshots/04.jpg</screenshot>
-	<screenshot>resources/screenshots/05.jpg</screenshot>
 	</assets>
   </extension>
 </addon>
