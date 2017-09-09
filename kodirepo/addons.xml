@@ -217,7 +217,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     </extension>
 </addon>
 
-<addon id="repository.zonilmu" version="2017.09.1" name="ZONILMU repository" provider-name="Zenor">
+<addon id="repository.zonilmu" version="2017.09.1" name="[B][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B] Repository" provider-name="Zenor - KODIM">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 	</requires>
@@ -234,7 +234,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 
 [B][COLOR yellow]“Sampaikanlah dariku walau hanya satu ayat” (HR. Bukhari)[/COLOR][/B]
 
-Alhamdulillah... dengan izin Allah.. ZonIlmu tertubuh secara tidak sengaja di bawah addon utama [B][COLOR yellow]KODIM[/COLOR][/B] sejak 2016. Inilah Dakwah Alaf Baru. Dakwah mengikut peredaraan dan keperluan semasa. :)
+Alhamdulillah... dengan izin Allah.. ZonIlmu tertubuh secara tidak sengaja di bawah addon utama [B][COLOR yellow]KODIM[/COLOR][/B] sejak 201. Inilah Dakwah Alaf Baru. Dakwah mengikut peredaraan dan keperluan semasa. :)
 
 Diharapkan dengan ada saluran Islamik seperti ini dapat lagi memberi ilmu, manfaat dan kesedaran kepada penonton dan seterusnya menghidupkan dakwah Baginda. TAKBIR !!!
 
@@ -248,12 +248,15 @@ Pastikan anda share addon ini!!! :)
 	<disclaimer>Addon ZonIlmu adalah PERCUMA dan boleh dimuat turun di [B][COLOR yellow]http://bit.ly/ZonIlmuRepo[/COLOR][/B] 
 	Sekiranya addon ini bermanfaat, kami mengalu-alukan para sahabat semua bersama-sama menjayakanya</disclaimer>
     <platform>all</platform>
-		<news>Latest Update</news>
-		<assets>
+	<news>8.9.2017 - Menu ZONILMU telah dikemaskini. Harap maklum</news>
+			<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/screenshots/01.jpg</screenshot>
+			<screenshot>resources/screenshots/02.jpg</screenshot>
+			<screenshot>resources/screenshots/03.jpg</screenshot>
 		</assets>
-	</extension>
+  </extension>
 </addon>
 
 <addon id="script.module.beautifulsoup"
