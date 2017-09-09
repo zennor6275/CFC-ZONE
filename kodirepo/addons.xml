@@ -221,7 +221,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 	</requires>
-	<extension point="xbmc.addon.repository" name="ZONILMU repository">
+	<extension point="xbmc.addon.repository" name="[B][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B] Repository">
 		<dir minversion="14.0.0">
 			<info compressed="false">https://raw.githubusercontent.com/zennor6275/ZONILMU/master/kodirepo/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/zennor6275/ZONILMU/master/kodirepo/addons.xml.md5</checksum>
@@ -229,12 +229,12 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-        <summary>[B][COLOR greenyellow]Dengar | Amal | Sebarkan[/COLOR][/B]</summary>
+    <summary>[B][COLOR greenyellow]Dengar | Amal | Sebarkan[/COLOR][/B]</summary>
     <description>Bismillahirrahmanirrahim
 
 [B][COLOR yellow]“Sampaikanlah dariku walau hanya satu ayat” (HR. Bukhari)[/COLOR][/B]
 
-Alhamdulillah... dengan izin Allah.. ZonIlmu tertubuh secara tidak sengaja di bawah addon utama [B][COLOR yellow]KODIM[/COLOR][/B] sejak 2015. Inilah Dakwah Alaf Baru. Dakwah mengikut peredaraan dan keperluan semasa. :)
+Alhamdulillah... dengan izin Allah.. ZonIlmu tertubuh secara tidak sengaja di bawah addon utama [B][COLOR yellow]KODIM[/COLOR][/B] sejak 2016. Inilah Dakwah Alaf Baru. Dakwah mengikut peredaraan dan keperluan semasa. :)
 
 Diharapkan dengan ada saluran Islamik seperti ini dapat lagi memberi ilmu, manfaat dan kesedaran kepada penonton dan seterusnya menghidupkan dakwah Baginda. TAKBIR !!!
 
@@ -242,11 +242,11 @@ Diharapkan dengan ada saluran Islamik seperti ini dapat lagi memberi ilmu, manfa
 
 ZonIlmu hanyalah sebagai medium perantara dan jalan alternatif dalam menuntut ilmu, bukan jalan yang utama. Kami menggalakkan para penuntut ilmu untuk menghadiri majlis ilmu dimana sahaja anda berada, kerana disitu lebih afdal dan terdapat barakah. Wallahu ta'ala a'lam.
 
-Pastikan anda share addon ini!!! :) dan untuk informasi lebih, boleh Like di page kami di https://www.facebook.com/kodimtheaddon
+Pastikan anda share addon ini!!! :)
 
 @Semua Hak cipta adalah milik Allah</description>
-	<disclaimer>Addon ZonIlmu adalah PERCUMA dan kami tidak mengenakan sebarang bayaran untuk perkhidmatan kami. 
-	Sekiranya addon ini bermanfaat, kami mengalu-alukan para sahabat semua bersama-sama kami menjayakanya</disclaimer>
+	<disclaimer>Addon ZonIlmu adalah PERCUMA dan boleh dimuat turun di [B][COLOR yellow]http://bit.ly/ZonIlmuRepo[/COLOR][/B] 
+	Sekiranya addon ini bermanfaat, kami mengalu-alukan para sahabat semua bersama-sama menjayakanya</disclaimer>
     <platform>all</platform>
 		<news>Latest Update</news>
 		<assets>
@@ -352,7 +352,7 @@ Diharapkan dengan ada saluran Islamik seperti ini dapat lagi memberi ilmu, manfa
 
 ZonIlmu hanyalah sebagai medium perantara dan jalan alternatif dalam menuntut ilmu, bukan jalan yang utama. Kami menggalakkan para penuntut ilmu untuk menghadiri majlis ilmu dimana sahaja anda berada, kerana disitu lebih afdal dan terdapat barakah. Wallahu ta'ala a'lam.
 
-Pastikan anda share addon ini!!! Untuk informasi lebih lanjut boleh Like FB Page [B][COLOR yellow]https://www.facebook.com/kodimtheaddon[/COLOR][/B]
+Pastikan anda share addon ini!!!
 
 @Semua Hak cipta adalah milik Allah</description>
 	<disclaimer>Addon ZonIlmu adalah PERCUMA dan boleh dimuat turun di [B][COLOR yellow]http://bit.ly/ZonIlmuRepo[/COLOR][/B] 
