@@ -333,6 +333,7 @@ Pastikan anda share addon ini!!! :)
     <import addon="script.module.youtube.dl" optional="true"/>
     <import addon="plugin.video.youtube" version="5.4.14Bump"/>
     <import addon="script.module.urlresolver" version="4.0.02"/>
+    <import addon="plugin.video.f4mTester" version="2.7.1"/>
     <import addon="script.module.simplejson" />
      <import addon="script.module.livestreamer" optional="true"/>
      <import addon="script.module.pyamf" optional="true"/>
@@ -361,7 +362,7 @@ Pastikan anda share addon ini!!!
 	<disclaimer>Addon ZonIlmu adalah PERCUMA dan boleh dimuat turun di [B][COLOR yellow]http://bit.ly/ZonIlmuRepo[/COLOR][/B] 
 	Sekiranya addon ini bermanfaat, kami mengalu-alukan para sahabat semua bersama-sama menjayakanya</disclaimer>
     <platform>all</platform>
-	<news>8.9.2017 - Menu ZONILMU telah dikemaskini. Harap maklum</news>
+	<news>24.9.2017 - Menu ZONILMU telah dikemaskini. Harap maklum</news>
 	<assets>
 	<icon>icon.png</icon>
 	<fanart>fanart.jpg</fanart>
