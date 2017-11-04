@@ -45,7 +45,7 @@ Pastikan anda share addon ini!!!
     <platform>all</platform>
 	<news>4.11.2017 - Kandungan ZONILMU telah dikemaskini. Harap maklum</news>
 			<assets>
-			<icon>icon.jpg</icon>
+			<icon>zonilmu.png</icon>
 			<fanart>fanart.jpg</fanart>
 			<screenshot>resources/screenshots/01.jpg</screenshot>
 			<screenshot>resources/screenshots/02.jpg</screenshot>
