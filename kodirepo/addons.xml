@@ -217,7 +217,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     </extension>
 </addon>
 
-<addon id="repository.zonilmu" version="2017.09.1" name="[B][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B] Repository" provider-name="Zenor - KODIM">
+<addon id="repository.zonilmu" version="2017.11.04" name="[B][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B] Repository" provider-name="Zenor - KODIM">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 	</requires>
@@ -248,9 +248,9 @@ Pastikan anda share addon ini!!! :)
 	<disclaimer>Addon ZonIlmu adalah PERCUMA dan boleh dimuat turun di [B][COLOR yellow]http://bit.ly/ZonIlmuRepo[/COLOR][/B] 
 	Sekiranya addon ini bermanfaat, kami mengalu-alukan para sahabat semua bersama-sama menjayakanya</disclaimer>
     <platform>all</platform>
-	<news>8.9.2017 - Menu ZONILMU telah dikemaskini. Harap maklum</news>
+	<news>04.11.2017 - Kandungan ZONILMU telah dikemaskini. Harap maklum</news>
 			<assets>
-			<icon>icon.png</icon>
+			<icon>zonilmu.png</icon>
 			<fanart>fanart.jpg</fanart>
 			<screenshot>resources/screenshots/01.jpg</screenshot>
 			<screenshot>resources/screenshots/02.jpg</screenshot>
@@ -320,7 +320,7 @@ Pastikan anda share addon ini!!! :)
 
 <addon id="plugin.video.zonilmu"
        name="[B][COLOR white]*[/COLOR][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B]"
-       version="1.1.9"
+       version="1.2.0"
        provider-name="Zen - KODIM">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -362,9 +362,9 @@ Pastikan anda share addon ini!!!
 	<disclaimer>Addon ZonIlmu adalah PERCUMA dan boleh dimuat turun di [B][COLOR yellow]http://bit.ly/ZonIlmuRepo[/COLOR][/B] 
 	Sekiranya addon ini bermanfaat, kami mengalu-alukan para sahabat semua bersama-sama menjayakannya</disclaimer>
     <platform>all</platform>
-	<news>24.9.2017 - Menu ZONILMU telah dikemaskini. Harap maklum</news>
+	<news>04.11.2017 - Menu ZONILMU telah dikemaskini. Harap maklum</news>
 	<assets>
-	<icon>icon.png</icon>
+	<icon>zonilmu.png</icon>
 	<fanart>fanart.jpg</fanart>
 	<screenshot>resources/screenshots/01.jpg</screenshot>
 	<screenshot>resources/screenshots/02.jpg</screenshot>
