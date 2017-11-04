@@ -217,7 +217,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     </extension>
 </addon>
 
-<addon id="repository.zonilmu" version="2017.11.04" name="[B][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B] Repository" provider-name="Zenor - KODIM">
+<addon id="repository.zonilmu" version="2017.09.1" name="[B][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B] Repository" provider-name="Zenor - KODIM">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 	</requires>
