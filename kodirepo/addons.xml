@@ -217,45 +217,25 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     </extension>
 </addon>
 
-<addon id="repository.zonilmu" version="2017.09.1" name="[B][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B] Repository" provider-name="Zenor - KODIM">
+<addon id="repository.al-ilm" version="2017.11.19" name="AL-ILM" provider-name="AL-ILM">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 	</requires>
-	<extension point="xbmc.addon.repository" name="[B][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B] Repository">
+	<extension point="xbmc.addon.repository" name="Al-Ilm Repository">
 		<dir minversion="14.0.0">
-			<info compressed="false">https://raw.githubusercontent.com/zennor6275/ZONILMU/master/kodirepo/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/zennor6275/ZONILMU/master/kodirepo/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/zennor6275/ZONILMU/master/kodirepo/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/zennor6275/AL-ILM/master/kodirepo/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/zennor6275/AL-ILM/master/kodirepo/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/zennor6275/AL-ILM/master/kodirepo/</datadir>
 		</dir>
 	</extension>
-	<extension point="xbmc.addon.metadata">
-    <summary>[B][COLOR greenyellow]Dengar | Amal | Sebarkan[/COLOR][/B]</summary>
-    <description>Bismillahirrahmanirrahim
-
-[B][COLOR yellow]“Sampaikanlah dariku walau hanya satu ayat” (HR. Bukhari)[/COLOR][/B]
-
-Alhamdulillah... dengan izin Allah.. ZonIlmu tertubuh secara tidak sengaja di bawah addon utama [B][COLOR yellow]KODIM[/COLOR][/B] sejak 201. Inilah Dakwah Alaf Baru. Dakwah mengikut peredaraan dan keperluan semasa. :)
-
-Diharapkan dengan ada saluran Islamik seperti ini dapat lagi memberi ilmu, manfaat dan kesedaran kepada penonton dan seterusnya menghidupkan dakwah Baginda. TAKBIR !!!
-
-[B][COLOR yellow]"Barangsiapa yang menempuh suatu jalan untuk mencari ilmu (syar'i), Allah akan memudahkan baginya dengan ilmu tersebut, jalan menuju surga." - [HR. Muslim][/COLOR][/B]
-
-ZonIlmu hanyalah sebagai medium perantara dan jalan alternatif dalam menuntut ilmu, bukan jalan yang utama. Kami menggalakkan para penuntut ilmu untuk menghadiri majlis ilmu dimana sahaja anda berada, kerana disitu lebih afdal dan terdapat barakah. Wallahu ta'ala a'lam.
-
-Pastikan anda share addon ini!!! :)
-
-@Semua Hak cipta adalah milik Allah</description>
-	<disclaimer>Addon ZonIlmu adalah PERCUMA dan boleh dimuat turun di [B][COLOR yellow]http://bit.ly/ZonIlmuRepo[/COLOR][/B] 
-	Sekiranya addon ini bermanfaat, kami mengalu-alukan para sahabat semua bersama-sama menjayakanya</disclaimer>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>AL-ILM  - </summary>
+    <description>     
+    </description>
     <platform>all</platform>
-	<news>04.11.2017 - Kandungan ZONILMU telah dikemaskini. Harap maklum</news>
-			<assets>
-			<icon>zonilmu.png</icon>
-			<fanart>fanart.jpg</fanart>
-			<screenshot>resources/screenshots/01.jpg</screenshot>
-			<screenshot>resources/screenshots/02.jpg</screenshot>
-			<screenshot>resources/screenshots/03.jpg</screenshot>
-		</assets>
   </extension>
 </addon>
 
@@ -318,10 +298,10 @@ Pastikan anda share addon ini!!! :)
   </extension>
 </addon>
 
-<addon id="plugin.video.zonilmu"
-       name="[B][COLOR white]*[/COLOR][COLOR yellow]Z[/COLOR][COLOR lawngreen]on[/COLOR][COLOR yellow]I[/COLOR][COLOR lawngreen]lmu[/COLOR][/B]"
-       version="1.2.0"
-       provider-name="Zen - KODIM">
+<addon id="plugin.video.al-ilm"
+       name="AL-ILM"
+       version="0.0.1"
+       provider-name="AL-ILM">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -331,45 +311,20 @@ Pastikan anda share addon ini!!! :)
     <import addon="script.module.httplib2" />
     <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
     <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="5.4.14Bump"/>
-    <import addon="script.module.urlresolver" version="4.0.02"/>
-    <import addon="plugin.video.f4mTester" version="2.7.1"/>
-    <import addon="script.module.simplejson" />
-     <import addon="script.module.livestreamer" optional="true"/>
-     <import addon="script.module.pyamf" optional="true"/>
-     <import addon="script.module.addon.common" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />    
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
-    <extension point="xbmc.addon.metadata">
-    <summary>[B][COLOR greenyellow]Dengar | Amal | Sebarkan[/COLOR][/B]</summary>
-    <description>Bismillahirrahmanirrahim
-
-[B][COLOR yellow]“Sampaikanlah dariku walau hanya satu ayat” (HR. Bukhari)[/COLOR][/B]
-
-Alhamdulillah... dengan izin Allah.. ZonIlmu tertubuh secara tidak sengaja di bawah addon utama [B][COLOR yellow]KODIM[/COLOR][/B] sejak 2016. Inilah Dakwah Alaf Baru. Dakwah mengikut peredaraan dan keperluan semasa. :)
-
-Diharapkan dengan ada saluran Islamik seperti ini dapat lagi memberi ilmu, manfaat dan kesedaran kepada penonton dan seterusnya menghidupkan dakwah Baginda. TAKBIR !!!
-
-[B][COLOR yellow]"Barangsiapa yang menempuh suatu jalan untuk mencari ilmu (syar'i), Allah akan memudahkan baginya dengan ilmu tersebut, jalan menuju surga." - [HR. Muslim][/COLOR][/B]
-
-ZonIlmu hanyalah sebagai medium perantara dan jalan alternatif dalam menuntut ilmu, bukan jalan yang utama. Kami menggalakkan para penuntut ilmu untuk menghadiri majlis ilmu dimana sahaja anda berada, kerana disitu lebih afdal dan terdapat barakah. Wallahu ta'ala a'lam.
-
-Pastikan anda share addon ini!!!
-
-@Semua Hak cipta adalah milik Allah</description>
-	<disclaimer>Addon ZonIlmu adalah PERCUMA dan boleh dimuat turun di [B][COLOR yellow]http://bit.ly/ZonIlmuRepo[/COLOR][/B] 
-	Sekiranya addon ini bermanfaat, kami mengalu-alukan para sahabat semua bersama-sama menjayakannya</disclaimer>
+  <extension point="xbmc.addon.metadata">
+    <summary>AL-ILM  - </summary>
+    <description>     
+    </description>
     <platform>all</platform>
-	<news>04.11.2017 - Menu ZONILMU telah dikemaskini. Harap maklum</news>
-	<assets>
-	<icon>zonilmu.png</icon>
-	<fanart>fanart.jpg</fanart>
-	<screenshot>resources/screenshots/01.jpg</screenshot>
-	<screenshot>resources/screenshots/02.jpg</screenshot>
-	<screenshot>resources/screenshots/03.jpg</screenshot>
-	</assets>
   </extension>
 </addon>
 
