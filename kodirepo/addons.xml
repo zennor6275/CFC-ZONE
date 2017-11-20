@@ -217,7 +217,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     </extension>
 </addon>
 
-<addon id="repository.al-ilm" version="2017.11.19" name="AL-ILM" provider-name="AL-ILM">
+<addon id="repository.al-ilm" version="2017.11.19" name="AL-ILM Repository" provider-name="AL-ILM">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 	</requires>
@@ -232,7 +232,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>AL-ILM  - </summary>
+    <summary></summary>
     <description>     
     </description>
     <platform>all</platform>
