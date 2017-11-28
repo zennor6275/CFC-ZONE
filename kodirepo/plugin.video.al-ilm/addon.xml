@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.al-ilm"
        name="AL-ILM"
-       version="0.0.3"
+       version="0.0.4"
        provider-name="AL-ILM">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -22,7 +22,7 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>AL-ILM</summary>
+    <summary>Alhamdulillah</summary>
     <description>     
     </description>
     <platform>all</platform>
