@@ -22,7 +22,7 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Alhamdulillah</summary>
+    <summary</summary>
     <description>     
     </description>
     <platform>all</platform>
