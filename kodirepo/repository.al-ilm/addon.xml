@@ -11,7 +11,7 @@
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-    <summary></summary>
+    <summary>Alhamdulillah</summary>
     <description></description>
 	<disclaimer></disclaimer>
     <platform>all</platform>
