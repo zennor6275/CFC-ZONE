@@ -1,0 +1,107 @@
+text/x-generic radio.xml 
+radio.xml: XML document text
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+  <title>[B][COLOR deepskyblue]•[COLOR lime]Live[/COLOR] [COLOR yellow]FM NURUL QURAN[/COLOR][/COLOR][/B]</title>
+  <thumbnail>https://radio-online.my/assets/image/radio/180/radio-nurul-quran.jpg</thumbnail>
+  <fanart>https://i.ibb.co/q79SvRn/fanart4.jpg</fanart>
+  <link>http://cloud.tujuh.my:8073/stream</link>
+  <info></info>
+</item>
+
+<item>
+  <title>[B][COLOR deepskyblue]•[COLOR lime]Live[/COLOR] [COLOR yellow]RADIO SUNNAH[/COLOR][/COLOR][/B]</title>
+  <thumbnail>https://imgur.com/9nxOjjM.jpg</thumbnail>
+  <fanart>https://i.ibb.co/q79SvRn/fanart4.jpg</fanart>
+  <link>http://radiosunnah.my:8000/idle</link>
+  <info></info>
+</item>
+
+<item>
+  <title>[B][COLOR deepskyblue]•[COLOR lime]Live[/COLOR] [COLOR yellow]AMAL FM[/COLOR][/COLOR][/B]</title>
+  <thumbnail>http://www.liveonlineradio.net/wp-content/uploads/2016/12/Hijrah-FM.jpg</thumbnail>
+  <fanart>https://i.ibb.co/q79SvRn/fanart4.jpg</fanart>
+  <link>http://s10.voscast.com:7874/;stream1479218422371/1</link>
+  <info></info>
+</item>
+
+<item>
+  <title>[B][COLOR deepskyblue]•[COLOR lime]Live[/COLOR] [COLOR yellow]HIJRAH FM[/COLOR][/COLOR][/B]</title>
+  <thumbnail>http://www.liveonlineradio.net/wp-content/uploads/2016/12/Hijrah-FM.jpg</thumbnail>
+  <fanart>https://i.ibb.co/q79SvRn/fanart4.jpg</fanart>
+  <link>http://cloud.tujuh.my:8073/stream</link>
+  <info></info>
+</item>
+
+<item>
+  <title>[B][COLOR deepskyblue]•[COLOR lime]Live[/COLOR] [COLOR yellow]NASYID FM[/COLOR][/COLOR][/B]</title>
+  <thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/29/11/fe/2911fe03-9b66-2867-3ee0-51bdf74f5936/source/512x512bb.jpg</thumbnail>
+  <fanart>https://i.ibb.co/q79SvRn/fanart4.jpg</fanart>
+  <link>http://stereo.nasyidfm.com:8000/stream</link>
+  <info></info>
+</item>
+
+<item>
+  <title>[B][COLOR deepskyblue]•[COLOR lime]Live[/COLOR] [COLOR yellow]KOOL FM A[/COLOR][/COLOR][/B]</title>
+  <thumbnail>https://www.radiomalaysia.net/radio/thumbs/66092koolfm.jpg</thumbnail>
+  <fanart>https://i.ibb.co/q79SvRn/fanart4.jpg</fanart>
+  <link>http://mediaprima.rastream.com/mediaprima-koolfm.android</link>
+  <info></info>
+</item>
+
+<item>
+  <title>[B][COLOR deepskyblue]•[COLOR lime]Live[/COLOR] [COLOR yellow]KOOL FM B[/COLOR][/COLOR][/B]</title>
+  <thumbnail>https://www.radiomalaysia.net/radio/thumbs/66092koolfm.jpg</thumbnail>
+  <fanart>https://i.ibb.co/q79SvRn/fanart4.jpg</fanart>
+  <link>https://mediaprima.rastream.com/mediaprima-koolfm</link>
+  <info></info>
+</item>
+
+<item>
+  <title>[B][COLOR deepskyblue]•[COLOR lime]Live[/COLOR] [COLOR yellow]HOT FM[/COLOR][/COLOR][/B]</title>
+  <thumbnail>http://mediaprima.rastream.com/mediaprima-hotfm.android</thumbnail>
+  <fanart>https://i.ibb.co/q79SvRn/fanart4.jpg</fanart>
+  <link>http://static.mytuner.mobi/media/radios/cyqqphe6KP.png</link>
+  <info></info>
+</item>
+
+<item>
+  <title>[B][COLOR deepskyblue]•[COLOR lime]Live[/COLOR] [COLOR yellow]ERA FM[/COLOR][/COLOR][/B]</title>
+  <thumbnail>https://www.radiomalaysia.net/radio/thumbs/erafm.png</thumbnail>
+  <fanart>https://i.ibb.co/q79SvRn/fanart4.jpg</fanart>
+  <link>http://astro2.rastream.com/era</link>
+  <info></info>
+</item>
+
+<item>
+  <title>[B][COLOR deepskyblue]•[COLOR lime]Live[/COLOR] [COLOR yellow]ERA FM SARAWAK[/COLOR][/COLOR][/B]</title>
+  <thumbnail>http://www.liveradiointernet.com/radio/images/thumbs/51232erafm-sarawak.jpg</thumbnail>
+  <fanart>https://i.ibb.co/q79SvRn/fanart4.jpg</fanart>
+  <link>http://astro2.rastream.com/amp-era-kch</link>
+  <info></info>
+</item>
+
+<item>
+  <title>[B][COLOR deepskyblue]•[COLOR lime]Live[/COLOR] [COLOR yellow]ERA FM SABAH[/COLOR][/COLOR][/B]</title>
+  <thumbnail>http://www.liveradiointernet.com/radio/images/fb/57751erafm-sabah.jpg</thumbnail>
+  <fanart>https://i.ibb.co/q79SvRn/fanart4.jpg</fanart>
+  <link>http://astro2.rastream.com/amp-era-kk</link>
+  <info></info>
+</item>
+
+<item>
+  <title>[B][COLOR deepskyblue]•[COLOR lime]Live[/COLOR] [COLOR yellow]HITZ FM[/COLOR][/COLOR][/B]</title>
+  <thumbnail>https://www.radiomalaysia.net/radio/thumbs/hitz.gif</thumbnail>
+  <fanart>https://i.ibb.co/q79SvRn/fanart4.jpg</fanart>
+  <link>http://astro1.rastream.com/hitz</link>
+  <info></info>
+</item>
+
+<item>
+  <title>[B][COLOR deepskyblue]•[COLOR lime]Live[/COLOR] [COLOR yellow]HITZ FM SABAH[/COLOR][/COLOR][/B]</title>
+  <thumbnail>http://www.liveradiointernet.com/radio/images/fb/45701hitz-fm-sabah.jpg</thumbnail>
+  <fanart>https://i.ibb.co/q79SvRn/fanart4.jpg</fanart>
+  <link>http://astro1.rastream.com/amp-hitz-kk</link>
+  <info></info>
+</item>
