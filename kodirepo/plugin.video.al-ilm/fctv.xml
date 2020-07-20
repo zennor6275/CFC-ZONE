@@ -1,0 +1,23 @@
+text/x-generic fctv.xml 
+fctv.xml: XML document text
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>[COLOR deepskyblue]•|•|•|•|[COLOR yellow][B]Malaysia[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<thumbnail>https://i.ibb.co/NWMvFnM/my.png</thumbnail>
+<fanart><fanart>https://i.ibb.co/b2XZp6y/fanart.jpg</fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/zennor6275/CFC-ZONE/master/kodirepo/plugin.video.al-ilm/my.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR deepskyblue]•|•|•|•|[COLOR yellow][B]Singapore[/B][/COLOR]|•|•|•|•[/COLOR]</title>
+<thumbnail>https://i.ibb.co/F3b3SXD/singapore-flag-button-square-icon-256.png</thumbnail>
+<fanart><fanart><fanart>https://i.ibb.co/48gzr9Q/fanart5.jpg</fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/zennor6275/CFC-ZONE/master/kodirepo/plugin.video.al-ilm/sg.xml</externallink>
+</item>
+
+
+
+
