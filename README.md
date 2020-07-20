@@ -1,2 +1,2 @@
-# ZONILMU
-zonilmu : plugin.video.zonilmu
+# HONDA ZIL ZONE
+zonilmu : plugin.video.CFC-ZONE
